@@ -1,2 +1,2 @@
 # img
-https://cdn.jsdelivr.net/gh/HNQX/img@main/github.png
+https://cdn.jsdelivr.net/gh/HNQX/img
